@@ -278,9 +278,5 @@
     "webpack-dev-server": "1.14.1",
     "xml2js": "0.4.19",
     "xmlbuilder": "9.0.4"
-  },
-  "engines": {
-    "node": "6.12.2",
-    "npm": "3.10.10"
   }
 }
